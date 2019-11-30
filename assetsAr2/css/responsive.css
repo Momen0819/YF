@@ -62,11 +62,12 @@
     font-size: 15px;
   }
   .single-slider-item .slide-btn-white, .single-slider-item .slide-btn-bordered {
-    font-size: 12px;
+    font-size: 12px !important;
     padding: 12px 22px;
   }
   .single-slider-item .slide-btn-white.mr-10 {
     margin-right: 0;
+    margin-top: 20px;
   }
   .single-slider-item .slide-button {
     margin-bottom: 25px;
